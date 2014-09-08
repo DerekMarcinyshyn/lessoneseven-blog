@@ -1,4 +1,1 @@
-lessoneseven-blog
-=================
-
-LESS 17
+LESS 17 Blog theme
