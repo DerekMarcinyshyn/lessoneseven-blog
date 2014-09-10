@@ -3,7 +3,11 @@
         <img src="<?php echo get_bloginfo('url') ?>/assets/img/less-logo_208x100.jpg" alt="LESS 17" width="208" height="100" />
     </a>
 
-    <p class="pull-right phone-number"><a href="tel:1-403-228-9199">1.403.228.9199</a></p>
+    <div class="pull-right header-right">
+        <p class="phone-number"><a href="tel:1-403-228-9199">1.403.228.9199</a></p>
+        <p class="address">930 17TH AVE SW</p>
+        <p class="address">CALGARY, AB</p>
+    </div>
 </div>
 
 <header class="banner navbar navbar-default" role="banner">
